@@ -1,0 +1,23 @@
+{
+  "file_paths": {
+    "excel": "data.xlsx",
+    "csv": "data.csv",
+    "json": "data.json",
+    "yaml": "data.yaml",
+    "pdf": "data.pdf",
+    "docx": "data.docx"
+  },
+  "excel_settings": {
+    "sheet_name": "Sheet1"
+  },
+  "json_settings": {
+    "key_field": "Name"
+  },
+    "pdf_settings": {
+    "pages": "all"
+  },
+  "logging": {
+    "level": "DEBUG",
+    "log_file": "app.log"
+  }
+}

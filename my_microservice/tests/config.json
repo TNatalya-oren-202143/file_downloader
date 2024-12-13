@@ -1,0 +1,17 @@
+{
+  "file_paths": {
+    "excel": "data.xlsx",
+    "csv": "data.csv",
+    "json": "data.json"
+  },
+  "excel_settings": {
+    "sheet_name": "Sheet1"
+  },
+  "json_settings": {
+    "key_field": "Name"
+  },
+  "logging": {
+    "level": "DEBUG",
+    "log_file": "app.log"
+  }
+}
